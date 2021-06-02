@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+body {
+  background-image: url(https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!4kW0Mz1ymE6DvXc0RHm89r7i7SSJUsJOkA-56aojf1AKR62oXKimQaAG9ivOPT6d%2Fitems%2F01W4C7VWHHWDPBEPU55JE3BBNQYH6MEZZT%3Fversion%3DPublished&encodeFailures=1&ctag=%22c%3A%7B12DEB0E7-9D3E-49EA-B085-B0C1FCC26733%7D%2C1%22&srcWidth=&srcHeight=&width=1131&height=750&action=Access);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  background-color: rgba(255, 229, 72, 255);
+}
+nav img {
+  width: 400px;
+  margin: -100px 100px -110px -20px;
+}
+nav h1 {
+  margin: -70px 20px -10px 800px;
+  position: absolute;
+  color: red;
+  font-family: Fredoka One;
+  font-size: 40px;
+}
+#myform {
+  width: 20%;
+  margin: 50px;
+  /* display: inline-block; */
+  background-color: rgba(255, 229, 72, 255);
+  border-radius: 20px;
+}
+#myform label {
+  display: block;
+  margin: 20px;
+  text-align: center;
+  color: red;
+  font-family: Fredoka One;
+  font-size: 30px;
+}
+#myform input {
+  height: 30px;
+  width: 200px;
+}
+#myform input,
+select {
+  margin: 20px 0px 10px 90px;
+}
+#myform select {
+  margin-left: 90px;
+  height: 30px;
+  width: 200px;
+}
+#myform button {
+  display: block;
+  margin-left: 85px;
+  height: 30px;
+  width: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+
+#orders {
+  /* background-image: url(img/thumbnail.jpeg); */
+  margin: -400px 20px 20px 664px;
+  position: absolute;
+  background-color: rgba(255, 229, 72, 255);
+}
+#orders {
+  border: 50px solid;
+  border-color: rgba(255, 229, 72, 255);
+}
+#orders table thead tr th {
+  border: 3px solid red;
+  padding: 20px;
+  width: 400px;
+  background-color: rgba(255, 241, 170, 255);
+  font-size: 20px;
+  font-family: "Fredoka One", cursive;
+  font-family: "ZCOOL KuaiLe", cursive;
+}
+
+#imgFood {
+  width: 50px;
+  height: 50px;
+  align-items: center;
+  margin: 20px 20px 20px 165px;
+  position: absolute;
+  cursor: pointer;
+}
+table tbody tr td {
+  border: 3px solid red;
+  padding: 20px;
+  width: 400px;
+  background-color: rgba(255, 241, 170, 255);
+}
+table tbody tr td p {
+  font-family: "Fredoka One", cursive;
+  font-family: "ZCOOL KuaiLe", cursive;
+  margin: 10px 0 0 30px;
+}
+footer hr {
+  background-color: rgba(255, 229, 72, 255);
+  height: 20px;
+}
+#delordes{
+    /* margin-left: 65%; */
+    height: 30px;
+    background-color: red;
+    color: white;
+    margin: 30px 100px 10px 65%;
+    position: absolute;
+}
